@@ -89,3 +89,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+#distri ローカルフォルダー 新旧ともに
+/ROOT
+/ROOT-old
